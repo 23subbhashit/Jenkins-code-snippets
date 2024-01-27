@@ -19,3 +19,7 @@ sudo service jenkins stop
 ```
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
+- To switch user to jenkins
+```
+sudo su - jenkins
+```
