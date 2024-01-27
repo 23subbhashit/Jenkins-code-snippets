@@ -23,3 +23,8 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 sudo su - jenkins
 ```
+- We will have all our projects in workspace directory.To reach there:
+```
+cd workspace
+ls
+```
