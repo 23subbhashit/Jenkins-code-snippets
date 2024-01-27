@@ -28,3 +28,11 @@ sudo su - jenkins
 cd workspace
 ls
 ```
+- To  see build output
+```
+cd jobs
+cd hello(project name)
+cd builds
+cd 1
+cat  log
+```
