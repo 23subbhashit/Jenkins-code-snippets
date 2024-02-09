@@ -48,3 +48,7 @@ docker run -it  --name calculatorspe16 23subbhashit/minispe /bin/bash
 ```
 docker images
 ```
+- Start SSH:
+```
+sudo systemctl start ssh
+```
