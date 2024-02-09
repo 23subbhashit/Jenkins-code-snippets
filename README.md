@@ -36,3 +36,15 @@ cd builds
 cd 1
 cat  log
 ```
+- Java excution Command
+```
+java -cp minispe-1.0-SNAPSHOT.jar org.example.Main
+```
+- Run the container
+```
+docker run -it  --name calculatorspe16 23subbhashit/minispe /bin/bash
+```
+- To get the images
+```
+docker images
+```
