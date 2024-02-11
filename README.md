@@ -52,3 +52,7 @@ docker images
 ```
 sudo systemctl start ssh
 ```
+- For executing for docker container
+```
+docker exec -it 27f9c38bf337 /bin/bash
+```
