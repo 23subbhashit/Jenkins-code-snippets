@@ -38,7 +38,7 @@ cat  log
 ```
 - Java excution Command
 ```
-java -cp minispe-1.0-SNAPSHOT.jar org.example.Main
+java -cp minispe-with-dependencies.jar org.example.Main
 ```
 - Run the container
 ```
