@@ -56,3 +56,11 @@ sudo systemctl start ssh
 ```
 docker exec -it 27f9c38bf337 /bin/bash
 ```
+- Start docker compose
+```
+sudo docker-compose up -d
+```
+- Stop docker compose
+```
+docker-compose down
+```
